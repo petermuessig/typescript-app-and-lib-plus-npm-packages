@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd">
+	<name>com.myorg.mylib</name>
+	<vendor>Peter Muessig</vendor>
+	<version>${version}</version>
+	<copyright>${copyright}</copyright>
+	<title>com.myorg.mylib</title>
+	<documentation>Some description about com.myorg.mylib</documentation>
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+</library>
